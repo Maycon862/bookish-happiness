@@ -152,7 +152,7 @@
       totalEl.textContent = `Total: R$${total},00`;
       textoPedido += `Total: R$${total},00`;
 
-      whatsappLink.href = `https://wa.me/SEUNUMERO?text=${textoPedido}`;
+      whatsappLink.href = `https://wa.me/45999818129?text=${textoPedido}`;
     }
   </script></body>
 </html>
